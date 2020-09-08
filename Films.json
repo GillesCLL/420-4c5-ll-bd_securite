@@ -22,21 +22,21 @@
     },
     {
     "Titre": "FightClub",
-    "directeur": "Kyle Balda, Pierre Coffin",
-    "Auteur": "Brian Lynch,",
-    "Date": 2015,
+    "directeur": "David Fincher",
+    "Auteur": "Chuck Palahniuk, Jim Uhls",
+    "Date": 1999,
      "Vedette": [
       {
-        "Nom": "Sandra Bullock",
-        "Personnage": "Scarlet Overkill (voix)"
+        "Nom": "Brad Pitt",
+        "Personnage": "Tyler Durden"
       },
       {
-        "Nom": "Jon Hamm",
-        "Personnage": "Herb Overkill  (voix)"
+        "Nom": "Edward Nortonm",
+        "Personnage": "Le narrateur"
       },
       {
-        "Nom": "Michael Keaton",
-        "Personnage": "Walter Nelson (voix)"
+        "Nom": "Meat Loaf",
+        "Personnage": "Robert 'Bob' Paulsen"
       }
     ]
     }
